@@ -1,0 +1,5 @@
+1. on odd number led done
+2. turn on the form one side - done
+3. dim leds
+3. ranging the light power
+4. 
